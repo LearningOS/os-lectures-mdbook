@@ -3,13 +3,13 @@ authors = ["lzzsG"]
 language = "en"
 multilingual = false
 src = "src"
-title = "os-mdbook-test"
+title = "os-lectures-mdbook"
 
 
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "black"
-git-repository-url = "https://github.com/lzzsG/test-all-to-mdbook"
+git-repository-url = "https://github.com/LearningOS/os-lectures-mdbook"
 git-repository-icon = "fa-github"
 
 
